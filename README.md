@@ -1,37 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Taiamun Erabi Rafin, a Computer Science & Engineering (CSE) student from Bangladesh 🇧🇩.<br><br>I have experience working with a wide range of technologies including:<br><br>Languages & Tools:<br>C, C++, Python, Java, JavaScript<br>React, Node.js<br>HTML, CSS<br>MySQL, PHP<br>Git & GitHub<br>Figma, Canva<br>Cisco Packet Tracer <br><br>I enjoy turning ideas into real-world projects.<br>Whenever something comes to my mind, I try to build it and make it practical.<br><br>Currently, I’m focused on:<br><br>Modern web development (React & Node.js)<br>Building projects that solve real-world problems in my country<br>Continuously improving my development skills<br><br><br>I’m a growing developer who believes in:<br><br>Learning by building<br>Exploring new technologies<br>Improving every single day<br><br>If you’re interested in what I’m building, feel free to check out my projects and follow my journey!<br><br>⚡ Fun Facts Ideas<br>I enjoy turning late-night ideas into real projects 🌙<br>Debugging feels like solving a mystery 🕵️‍♂️<br>I Google a lot—but I also learn a lot 😄<br>I believe “learning by building” is the best way to grow<br>I like breaking things just to understand how they work<br>Coffee + code = productivity ☕<br>I prefer clean UI and simple design<br>I enjoy working on projects that solve real-life problems<br>I get excited when my code finally works after hours of debugging 🎉<br>I love exploring new tech stacks and tools<br>Sometimes I spend more time fixing bugs than writing code 😅<br>I believe consistency is more important than motivation<br>I like contributing to meaningful and impactful ideas<br>I enjoy collaborating and learning from other developers<br>Turning “what if…” ideas into real apps is my favorite thing<br>I like optimizing and improving existing projects<br>I learn something new every time I code<br>I enjoy both frontend design and backend logic<br>I like experimenting with new frameworks and libraries<br>I believe small projects can lead to big skills
 
-<!--
-**abdullahk8979-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/md_rafinyoyo?igsh=MThlb2hrbnc2bDZzcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%20taiamun-erabi-rafin) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abdullahk8979-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abdullahk8979-stack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahk8979-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I’m Taiamun Erabi Rafin, a CSE student based in Bangladesh.
+---
+[![](https://komarev.com/ghpvc/?username=abdullahk8979-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I learn and build whatever I can imagine.
-
-If an idea comes to my mind, I try to turn it into a real project.
-
-My main focus is learning technologies like React, Node.js, and modern web development tools.
-
-I’m working on different projects focused on solving real-world problems in my country.
-
-I’m still growing as a developer and improving my skills every day.
-
-If you want to follow my journey, check out my projects here!
-
-**Fun Facts:**
-
-* I enjoy coding and learning new technologies
-* I like building useful and impactful projects
-* Hobbies: coding, learning, and exploring tech
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
