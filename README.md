@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I’m Taiamun Erabi Rafin, a CSE student based in Bangladesh.
 
 I learn and build whatever I can imagine.
@@ -28,8 +29,9 @@ I’m still growing as a developer and improving my skills every day.
 
 If you want to follow my journey, check out my projects here!
 
-Fun Facts:
+**Fun Facts:**
 
-I enjoy coding and learning new technologies
-I like building useful and impactful projects
-Hobbies: coding, learning, and exploring tech
+* I enjoy coding and learning new technologies
+* I like building useful and impactful projects
+* Hobbies: coding, learning, and exploring tech
+
