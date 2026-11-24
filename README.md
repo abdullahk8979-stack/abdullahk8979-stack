@@ -1,4 +1,4 @@
-<a href="https://sushmitadasari.github.io/Sushmitadasari/"> <img src="assets/rafin-hero-portrait.svg" width="100%" alt="Taiamun Erabi Rafin — CSE Student, Data Science major and Aspiring Full-Stack Developer."> </a>
+<a href=""> <img src="assets/rafin-hero-portrait.svg" width="100%" alt="Taiamun Erabi Rafin — CSE Student, Data Science major and Aspiring Full-Stack Developer."> </a>
 
 
 
