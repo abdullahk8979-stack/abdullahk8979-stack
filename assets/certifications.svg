@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ce-t ce-d">
+  <title id="ce-t">Rafin — Skills and Learning</title>
+  <desc id="ce-d">Taiamun Erabi Rafin, CSE student at United International University. Bachelor of Science in Computer Science and Engineering, majoring in Data Science, currently in the fourth semester. Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Java, Python, C, C++, MySQL. Tools: Visual Studio Code, Git, GitHub, Vercel, Antigravity, Cursor, Claude Code, Windsurf, Qoder, ChatGPT, ElevenLabs, Canva, Figma and Jira. React.js, Node.js and Express.js are currently being learned.</desc>
+  <defs>
+    <linearGradient id="ce-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1B33"/><stop offset="1" stop-color="#07111F"/></linearGradient>
+    <radialGradient id="ce-glow" cx="15%" cy="100%" r="70%"><stop offset="0" stop-color="#12345A" stop-opacity=".5"/><stop offset="1" stop-color="#07111F" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ce-edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2FBFF"/><stop offset=".5" stop-color="#B8F3FF"/><stop offset="1" stop-color="#55D6E8" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .ce-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .ce-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ce-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ce-tile { animation: ce-in 1.35s cubic-bezier(.22,1,.36,1) both; }
+    .ce-edge { stroke-dasharray: 870; stroke-dashoffset: 870; animation: ce-edge 7.5s cubic-bezier(.22,1,.36,1) infinite; }
+    @keyframes ce-in { from { opacity: 0; transform: translateY(12px) scale(.985); } to { opacity: 1; transform: translateY(0) scale(1); } }
+    @keyframes ce-edge { 0% { stroke-dashoffset: 870; opacity: 1; } 40% { stroke-dashoffset: 0; opacity: 1; } 60%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ce-tile { animation: none; } .ce-edge { display: none; } }
+  </style>
+  <rect width="1200" height="420" rx="20" fill="url(#ce-bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#ce-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="19.5" fill="none" stroke="#55D6E8" stroke-opacity=".16"/>
+  <g class="ce-tile" style="animation-delay:0.20s"><g transform="translate(40 40)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.00s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">UIU · EDUCATION</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/><circle cx="227" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F2FBFF">CSE Student · 4th Semester</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F2FBFF">BSc Computer Science &amp;</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B8F3FF">Engineering · Data Science</text>
+  </g></g>
+  <g class="ce-tile" style="animation-delay:0.32s"><g transform="translate(325 40)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.35s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">FRONTEND</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/><circle cx="227" cy="31" r="3.5" fill="#55D6E8"/><circle cx="216" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F2FBFF">HTML · CSS · JavaScript</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F2FBFF">React.js</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B8F3FF">Currently learning</text>
+  </g></g>
+  <g class="ce-tile" style="animation-delay:0.44s"><g transform="translate(610 40)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.70s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">BACKEND</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F2FBFF">Node.js · Express.js</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#B8F3FF">Currently learning</text>
+  </g></g>
+  <g class="ce-tile" style="animation-delay:0.56s"><g transform="translate(895 40)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.05s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">PROGRAMMING</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/><circle cx="227" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F2FBFF">C · C++ · Java</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F2FBFF">Python</text>
+  </g></g>
+  <g class="ce-tile" style="animation-delay:0.68s"><g transform="translate(40 230)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.40s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">DATABASE</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/><circle cx="227" cy="31" r="3.5" fill="#55D6E8"/><circle cx="216" cy="31" r="3.5" fill="#55D6E8"/><circle cx="205" cy="31" r="3.5" fill="#55D6E8"/><circle cx="194" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F2FBFF">MySQL</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#B8F3FF">Relational database basics</text>
+  </g></g>
+  <g class="ce-tile" style="animation-delay:0.80s"><g transform="translate(325 230)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.75s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">DEV TOOLS · CORE</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F2FBFF">VS Code · Git · GitHub</text><text class="ce-sans" x="22" y="108" font-size="12.5" fill="#F2FBFF">Vercel · Antigravity · Cursor</text>
+    <text class="ce-sans" x="22" y="130" font-size="12.5" fill="#B8F3FF">Claude Code · Windsurf · Qoder</text>
+  </g></g>
+  <g class="ce-tile" style="animation-delay:0.92s"><g transform="translate(610 230)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:4.10s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">AI &amp; CREATIVE TOOLS</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="13" fill="#F2FBFF">ChatGPT · Claude Code</text>
+    <text class="ce-sans" x="22" y="108" font-size="13" fill="#F2FBFF">ElevenLabs · Canva · Figma</text>
+    <text class="ce-sans" x="22" y="130" font-size="13" fill="#B8F3FF">Jira · Vercel</text>
+  </g></g>
+  <g class="ce-tile" style="animation-delay:1.04s"><g transform="translate(895 230)">
+    <rect width="265" height="170" rx="14" fill="#0B1B33" stroke="#55D6E8" stroke-opacity=".24"/>
+    <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:4.45s"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#55D6E8">AI · DATA SCIENCE</text>
+    <circle cx="238" cy="31" r="3.5" fill="#55D6E8"/>
+    <line x1="22" y1="54" x2="243" y2="54" stroke="#55D6E8" stroke-opacity=".15"/>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F2FBFF">Machine Learning · Deep Learning</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F2FBFF">NLP · LLMs · Data Mining</text><text class="ce-sans" x="22" y="130" font-size="12.5" fill="#B8F3FF">Focus: Web Development &amp; AI</text>
+  </g></g>
+</svg>
