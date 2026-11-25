@@ -33,7 +33,7 @@
 
 <a href="https://github.com/abdullahk8979-stack/Multi-Tenant-SaaS-Platform-main"><img src="assets/project-multitenant-saas-v2.svg" width="100%" alt="Multi-Tenant SaaS Platform: tenant-scoped middleware and four-level JWT/RBAC. 50+ concurrent tenants, zero unauthorised-access incidents, setup under 2 minutes. Node.js, React, PostgreSQL, Docker Compose."></a>
 <p align="center"> 
-<a href="https://github.com/Sushmitadasari/Multi-Tenant-SaaS-Platform"><img src="https://img.shields.io/badge/Repository-Multi--Tenant_SaaS-0B1B33?style=for-the-badge&labelColor=07111F&logoColor=F2FBFF&logo=github" alt="Multi-Tenant SaaS repository"></a>
+<a href="https://github.com/abdullahk8979-stack/Multi-Tenant-SaaS-Platform-main"><img src="https://img.shields.io/badge/Repository-Multi--Tenant_SaaS-0B1B33?style=for-the-badge&labelColor=07111F&logoColor=F2FBFF&logo=github" alt="Multi-Tenant SaaS repository"></a>
  </p>
  
 <img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
